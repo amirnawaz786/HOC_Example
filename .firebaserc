@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "startup-6885e",
+    "staging": "startup-6885e"
+  },
+  "targets": {}
+}
